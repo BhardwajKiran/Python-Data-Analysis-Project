@@ -48,16 +48,6 @@ The year **2020** had the highest number of filmed titles in the dataset.
 
 ---
 
-## 📎 License
-
-This project is for academic and educational purposes only.
-
----
-
-## 🙋‍♀️ Author
-
-**Kiran Bhardwaj**  
-[LinkedIn →](https://www.linkedin.com/in/kiran-bhardwaj-b34a29317/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
