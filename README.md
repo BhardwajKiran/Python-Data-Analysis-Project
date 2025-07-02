@@ -71,7 +71,4 @@ Key Tasks Data Analysis: Utilized Python with Matplotlib and Pandas for data ana
 Feature Impact Assessment: Evaluated the impact of various features on lung cancer. Performance Visualization: Created visualizations to depict performance metrics and feature importance. 
 Tools and Libraries : Python Matplotlib Pandas 
 Summary : This comprehensive analysis highlights significant features impacting lung cancer and showcases performance metrics through intuitive visualizations.
-
-
-![image](https://github.com/user-attachments/assets/7e5424ac-a40a-477c-93c9-abe58c5e3a74)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
