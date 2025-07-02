@@ -1,4 +1,6 @@
-#1  🎬 Netflix Data Analysis Project
+#1  
+
+🎬 Netflix Data Analysis Project
 
 This project presents a detailed analysis of a Netflix-style movie dataset to uncover trends in genres, popularity, and production patterns. The objective is to explore what kinds of movies and shows are most frequent, most liked, and how they are distributed over time and geography.
 
@@ -56,3 +58,20 @@ This project is for academic and educational purposes only.
 
 **Kiran Bhardwaj**  
 [LinkedIn →](https://www.linkedin.com/in/kiran-bhardwaj-b34a29317/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#2. **Lung Cancer Data Analysis and Visualization Python-Pandas-and-Numpy**
+
+
+Overview 
+
+This project involves the analysis of lung cancer data using Python and key libraries to derive insights and visualizations.
+Key Tasks Data Analysis: Utilized Python with Matplotlib and Pandas for data analysis. 
+Feature Impact Assessment: Evaluated the impact of various features on lung cancer. Performance Visualization: Created visualizations to depict performance metrics and feature importance. 
+Tools and Libraries : Python Matplotlib Pandas 
+Summary : This comprehensive analysis highlights significant features impacting lung cancer and showcases performance metrics through intuitive visualizations.
+
+
+![image](https://github.com/user-attachments/assets/7e5424ac-a40a-477c-93c9-abe58c5e3a74)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
