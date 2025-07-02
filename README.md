@@ -2,13 +2,6 @@
 
 This project presents a detailed analysis of a Netflix-style movie dataset to uncover trends in genres, popularity, and production patterns. The objective is to explore what kinds of movies and shows are most frequent, most liked, and how they are distributed over time and geography.
 
----
-
-## 📂 Dataset
-
-- Contains metadata for thousands of Netflix titles including genres, popularity, ratings, and release years.
-
----
 
 ## 🎯 Objectives
 
@@ -42,19 +35,11 @@ Out of 6520 popular entries (about **25.5%** of the dataset), **Drama** again do
 
 ### ✅ Q3: What movie has the highest popularity? What’s its genre?
 **Spider-Man: No Way Home** is the most popular movie, 
-.It belongs to genres like:
-- **Action**
-- **Adventure**
-- **Science Fiction**
+.It belongs to genres like: - **Action**, **Adventure**, **Science Fiction**
 
 ### ✅ Q4: What movie has the lowest popularity? What’s its genre?
 **The United States, Thread** has the lowest popularity rating. 
-.It belongs to genres like:
-- **Music**
-- **Drama**
-- **War**
-- **Sci-Fi**
-- **History**
+.It belongs to genres like: **Music**, **Drama**, **War**, **Sci-Fi**, **History**
 
 ### ✅ Q5: Which year had the most filmed movies?
 The year **2020** had the highest number of filmed titles in the dataset.
